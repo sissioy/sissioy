@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Sissioy's github stats](https://github-readme-stats.vercel.app/api?username=sissioy)](https://github.com/sissioy/github-readme-stats)
-![Sissioy's github stats](https://github-readme-stats.vercel.app/api?username=sissioy&show_icons=true&theme=radical)
-![Sissioy's github stats](https://github-readme-stats.vercel.app/api?username=sissioy&show_icons=true)
-![Sissioy's github stats](https://github-readme-stats.vercel.app/api?username=sissioy&show_icons=true&theme=onedark)
+[![Sissioy's github stats](https://github-readme-stats.vercel.app/api?username=sissioy&show_icons=true&theme=onedark)](https://github.com/sissioy/github-readme-stats)
+
